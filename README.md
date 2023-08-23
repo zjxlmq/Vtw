@@ -1,5 +1,5 @@
 # Vtw
-自更新订阅
+机器人自动更新订阅
 # 订阅地址
 ```shell
 https://d.mista.ke/dy/vpnhzq
